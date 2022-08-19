@@ -1,6 +1,6 @@
 # Project Title
 
-SWEPT - Software Engineer Portfolio TSWEPT can help computer science students showcase their skills. Presenting platforms other than LinkedIn in which students can tailor according their own choices is not only motivation to pursue computer science, but also promotes inviduality in the computer science field. The template can be shared and edited on GitHub. By being able to take control of how their portfolio works, students will be motivated to learn the basics of HTML, CSS, and Javascript.emplate
+SWEPT - Software Engineer Portfolio Template 
 
 ## Description
 
