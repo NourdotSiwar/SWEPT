@@ -1,0 +1,123 @@
+.box{
+  text-align: center;
+  color: black;
+}
+
+
+/*nav bar - home*/
+.bar {
+  justify-content: flex-end;
+  float: right;
+  background-color: #F4F4F9;
+  overflow: hidden;
+  padding: 8px;
+  width: 99%;
+}
+
+/* navigation bar sections */
+.bar a{
+  float: right;
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: flex;
+}
+
+/* hover for each nav bar section */
+.bar a:hover {
+  background-color: #FFE5D9;
+  color:    black;
+  border-radius: 10%
+}
+
+/* highlight projects section */
+.bar a.aboutMe {
+  background-color: #FFE5D9;
+  color:   black;
+  border-radius: 10%
+}
+
+/* SWEPT title */
+.title{
+  background-color: #F4F4F9;
+  position: absolute;
+  color: black;
+  font-size: 19px;
+  left: 26px;
+  font-weight: 300;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1623150502742-6a849aa94be4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    backdrop-filter: blur(5px);
+background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+}
+
+
+/*
+All styling from html:
+  <body style = "background-color:#B8DBD9;">
+    <body style = "background-"
+
+h1 {text-align: center;}
+div {text-align: center;}
+
+
+
+
+*/
+
+img{
+  border-radius:50%;
+  margin-top:3em;
+}
+
+button{
+  margin:50px;  
+  padding: 30 px;
+  justify-content:center;
+  
+}
+
+.submit-button{
+  padding:15px;
+  transition: 0.6s;
+
+}
+
+.submit-button:hover {
+  background-color: white;
+  color: black;
+  border-radius: 15px;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.box{
+  justify-content:center;
+  
+}
+
+
+h2{
+  justify-content:center;
+  text-align:center;
+}
+
+label{
+  font-size: 23px;
+}
+
+form{
+  justify-content:center;
+  justify-items:center;
+}
+
+.box{
+  font-weight:bold;
+}
