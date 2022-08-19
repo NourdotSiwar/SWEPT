@@ -16,11 +16,11 @@ SWEPT can help computer science students showcase their skills. Presenting platf
 * Once the code is all there on replit, you can start editing the template to your own needs.
 ## Authors
 
-Nour Siwar - nour.siwar@outlook.com
-Gauri Ghate - gg.ghate8787@gmail.com
-Montserrat Sanchez - msanc5580@gmail.com
-Lina Yang - Lina.yang2016@gmail.com
-Woeser Lhamo - wlhamo2016@gmail.com
+* Nour Siwar - nour.siwar@outlook.com
+* Gauri Ghate - gg.ghate8787@gmail.com
+* Montserrat Sanchez - msanc5580@gmail.com
+* Lina Yang - Lina.yang2016@gmail.com
+* Woeser Lhamo - wlhamo2016@gmail.com
 
 ## License
 
